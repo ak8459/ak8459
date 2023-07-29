@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" alt="ak8459" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=merko&border_radius=4.1&mode=weekly&card_width=540&hide_total_contributions=true)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak8459&" alt="ak8459" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=merko&border_radius=4.1&mode=weekly&card_width=540&hide_total_contributions=true)](https://git.io/streak-stats)
