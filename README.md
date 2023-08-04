@@ -32,7 +32,10 @@
 <p><a href="https://www.buymeacoffee.com/Akash Sharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Akash Sharma" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" alt="ak8459" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ak8459&theme=transparent&card_width=538&type=png)](https://git.io/streak-stats)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ak8459&theme=transparent&card_width=538&type=png)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak8459&" alt="ak8459" /></p>
