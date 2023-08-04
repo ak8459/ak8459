@@ -38,4 +38,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ak8459&theme=transparent&card_width=538&type=png)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ak8459&" alt="ak8459" /></p>
