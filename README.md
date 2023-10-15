@@ -13,9 +13,10 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="center">🌱 I’m currently learning **React.js, Node.js**</p>
-- 🌱 I’m currently learning **React.js, Node.js**
+<p align="center">🌱 💬 Ask me about HTML, JavaScript, React.js, Node.js, Data-structures</p>
+<p align="center">📫 How to reach me <a>akashsharma01247@gmail.com </a> </p>
+<p align="center">⚡Talk is cheap show me the code</p>
 
-- 💬 Ask me about **HTML,JavaScript,React.js,Node.js**
 
 - 📫 How to reach me **akashsharma01247@gmail.com**
 
