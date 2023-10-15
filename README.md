@@ -14,13 +14,10 @@
 
 <p align="center">🌱 I’m currently learning **React.js, Node.js**</p>
 <p align="center">🌱 💬 Ask me about HTML, JavaScript, React.js, Node.js, Data-structures</p>
-<p align="center">📫 How to reach me <a>akashsharma01247@gmail.com </a> </p>
+ <p align="center">📫 How to reach me <a>akashsharma01247@gmail.com </a> </p>
 <p align="center">⚡Talk is cheap show me the code</p>
 
 
-- 📫 How to reach me **akashsharma01247@gmail.com**
-
-- ⚡ Fun fact **WAKE EAT CODE REPEAT**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -34,7 +31,7 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Akash Sharma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Akash Sharma" /></a></p><br><be><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" alt="ak8459" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" alt="ak8459" /></p>
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png)](https://git.io/streak-stats) 
 
