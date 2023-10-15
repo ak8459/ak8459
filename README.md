@@ -35,5 +35,5 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png)](https://git.io/streak-stats) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" /></p>
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" /></p>
 
