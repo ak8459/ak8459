@@ -17,8 +17,8 @@
  <p align="center">📫 How to reach me <a>akashsharma01247@gmail.com </a> </p>
 <p align="center">⚡Talk is cheap show me the code</p>
 
-  <ul align="center">
-   <li align="center">🌱 I’m currently learning **React.js, Node.js**  </li>
+  <ul text-align="center">
+   <li >🌱 I’m currently learning **React.js, Node.js**  </li>
   </ul>
 
 
