@@ -18,7 +18,7 @@
 <p align="center">⚡Talk is cheap show me the code</p>
 
   <ul align="center">
-   <li>🌱 I’m currently learning **React.js, Node.js**  </li>
+   <li align="center">🌱 I’m currently learning **React.js, Node.js**  </li>
   </ul>
 
 
