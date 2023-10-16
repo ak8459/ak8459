@@ -12,10 +12,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center">🌱 I’m currently learning **React.js, Node.js**</p>
+<p align="center">🌱 I’m currently learning **React.js, Node.js** </p>
 <p align="center">🌱 💬 Ask me about HTML, JavaScript, React.js, Node.js, Data-structures</p>
  <p align="center">📫 How to reach me <a>akashsharma01247@gmail.com </a> </p>
 <p align="center">⚡Talk is cheap show me the code</p>
+
+  <ul>
+   <li>🌱 I’m currently learning **React.js, Node.js**  </li>
+  </ul>
 
 
 
@@ -33,7 +37,7 @@
 
 <p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" alt="ak8459" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png)](https://git.io/streak-stats)
+  <p>  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png)](https://git.io/streak-stats) </p>
 
 <p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" /></p>
 
