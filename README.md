@@ -37,7 +37,7 @@
 
   
 <div class='container' align="center" >
-<img  align="center"  style="height: auto; width: 50%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png" />
+<img  align="center"  style="height: auto; width: auto;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png" />
 &nbsp;
 &nbsp;
 <img align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" />
