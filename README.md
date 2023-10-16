@@ -35,17 +35,17 @@
 
 <p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" alt="ak8459" /></p>
 
-  <img  align="center" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png" />
-
+  
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=ak8459&theme=transparent&border_radius=4.4&type=png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" /></div>
+<img align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" />
+  
 </div>
 
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" /></div>
 
   
-<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" /></p>
 
 
