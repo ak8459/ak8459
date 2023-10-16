@@ -41,12 +41,8 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<img  style="height: auto; width: auto: margin: 10px; src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&locale=en" alt="ak8459" />
+<img  style="height: auto; width: auto: margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=ak8459&show_icons=true&bg_color=00000000" alt="ak8459" />
   
 </div>
-
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8459&show_icons=true&locale=en&layout=compact" /></div>
-
-  
 
 
